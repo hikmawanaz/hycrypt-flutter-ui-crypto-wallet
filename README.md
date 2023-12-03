@@ -1,6 +1,7 @@
-# hycrypt
+# HyCrypt
 
-Hycrypt UI
+HyCrypt Flutter UI Crypto Currency Digital Wallet
+
 
 ## Getting Started
 
